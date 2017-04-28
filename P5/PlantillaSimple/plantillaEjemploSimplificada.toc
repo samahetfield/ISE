@@ -1,0 +1,14 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Cuesti\IeC {\'o}n 1}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}\relax \fontsize {14.4}{18}\selectfont Al modificar los valores del kernel de este modo, no logramos que persistan despu\IeC {\'e}s de reiniciar la m\IeC {\'a}quina. \IeC {\textquestiondown }Qu\IeC {\'e} archivo hay que editar para que los cambios sean permanentes?}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Cuesti\IeC {\'o}n 2}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}\relax \fontsize {14.4}{18}\selectfont \IeC {\textquestiondown }Con qu\IeC {\'e} opci\IeC {\'o}n se muestran todos los par\IeC {\'a}metros modificables en tiempo de ejecuci\IeC {\'o}n? Elija dos par\IeC {\'a}metros y explique, en dos l\IeC {\'\i }neas, qu\IeC {\'e} funci\IeC {\'o}n tienen.}{4}{subsection.2.1}
+\contentsline {section}{\numberline {3}Cuesti\IeC {\'o}n 3}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}\relax \fontsize {14.4}{18}\selectfont Realice una copia de seguridad del registro y rest\IeC {\'a}urela,ilustre el proceso con capturas.}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}\relax \fontsize {14.4}{18}\selectfont Abra una ventana mostrando el editor del registro.}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4}Cuesti\IeC {\'o}n 4}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}\relax \fontsize {14.4}{18}\selectfont Enumere qu\IeC {\'e} elementos se pueden configurar en Apache y en IIS para que Moodle funcione mejor.}{10}{subsection.4.1}
+\contentsline {section}{\numberline {5}Cuesti\IeC {\'o}n 5}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}\relax \fontsize {14.4}{18}\selectfont Ajuste la compresi\IeC {\'o}n en el servidor y analice su comportamiento usando varios valores para el tama\IeC {\~n}o de archivo a partir del cual comprimir. Para comprobar que est\IeC {\'a} comprimiendo puede usar el navegador o comandos como curl (see url) o lynx. Muestre capturas de pantalla de todo el proceso.}{11}{subsection.5.1}
+\contentsline {section}{\numberline {6}Cuesti\IeC {\'o}n 6}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}\relax \fontsize {14.4}{18}\selectfont Usted parte de un SO con ciertos par\IeC {\'a}metros definidos en la instalaci\IeC {\'o}n (Pr\IeC {\'a}ctica 1), ya sabe instalar servicios (Pr\IeC {\'a}ctica 2) y c\IeC {\'o}mo monitorizarlos (Pr\IeC {\'a}ctica 3) cuando los somete a cargas (Pr\IeC {\'a}ctica 4). Al igual que ha visto c\IeC {\'o}mo se puede mejorar un servidor web (Pr\IeC {\'a}ctica 5 Secci\IeC {\'o}n 3.1), elija un servicio (el que usted quiera) y modifique un par\IeC {\'a}metro para mejorar su comportamiento. Monitorice el servicio antes y despu\IeC {\'e}s de la modificaci\IeC {\'o}n del par\IeC {\'a}metro aplicando cargas al sistema (antes y despu\IeC {\'e}s) mostrando los resultados de la monitorizaci\IeC {\'o}n.}{15}{subsection.6.1}

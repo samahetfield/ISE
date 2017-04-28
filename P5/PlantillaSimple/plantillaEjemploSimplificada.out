@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Cuesti\363n 1}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Al modificar los valores del kernel de este modo, no logramos que persistan despu\351s de reiniciar la m\341quina. \277Qu\351 archivo hay que editar para que los cambios sean permanentes?}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Cuesti\363n 2}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{\277Con qu\351 opci\363n se muestran todos los par\341metros modificables en tiempo de ejecuci\363n? Elija dos par\341metros y explique, en dos l\355neas, qu\351 funci\363n tienen.}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Cuesti\363n 3}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Realice una copia de seguridad del registro y rest\341urela,ilustre el proceso con capturas.}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Abra una ventana mostrando el editor del registro.}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Cuesti\363n 4}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Enumere qu\351 elementos se pueden configurar en Apache y en IIS para que Moodle funcione mejor.}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Cuesti\363n 5}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Ajuste la compresi\363n en el servidor y analice su comportamiento usando varios valores para el tama\361o de archivo a partir del cual comprimir. Para comprobar que est\341 comprimiendo puede usar el navegador o comandos como curl \(see url\) o lynx. Muestre capturas de pantalla de todo el proceso.}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Cuesti\363n 6}{}% 12
+\BOOKMARK [2][-]{subsection.6.1}{Usted parte de un SO con ciertos par\341metros definidos en la instalaci\363n \(Pr\341ctica 1\), ya sabe instalar servicios \(Pr\341ctica 2\) y c\363mo monitorizarlos \(Pr\341ctica 3\) cuando los somete a cargas \(Pr\341ctica 4\). Al igual que ha visto c\363mo se puede mejorar un servidor web \(Pr\341ctica 5 Secci\363n 3.1\), elija un servicio \(el que usted quiera\) y modifique un par\341metro para mejorar su comportamiento. Monitorice el servicio antes y despu\351s de la modificaci\363n del par\341metro aplicando cargas al sistema \(antes y despu\351s\) mostrando los resultados de la monitorizaci\363n.}{section.6}% 13
