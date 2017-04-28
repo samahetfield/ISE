@@ -1,0 +1,12 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Cuesti\IeC {\'o}n 1}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}\relax \fontsize {14.4}{18}\selectfont Seleccione, instale y ejecute uno, comente los resultados. Atenci\IeC {\'o}n: no es lo mismo un benchmark que una suite, instale un benchmark.}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Cuesti\IeC {\'o}n 2}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}\relax \fontsize {14.4}{18}\selectfont De los par\IeC {\'a}metros que le podemos pasar al comando \IeC {\textquestiondown }Qu\IeC {\'e} significa -c 5 ? \IeC {\textquestiondown }y -n 100?}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}\relax \fontsize {14.4}{18}\selectfont Monitorice la ejecuci\IeC {\'o}n de ab contra alguna m\IeC {\'a}quina (cualquiera) \IeC {\textquestiondown }cu\IeC {\'a}ntas \IeC {\textquotedblleft }tareas\IeC {\textquotedblright } crea ab en el cliente?}{6}{subsection.2.2}
+\contentsline {section}{\numberline {3}Cuesti\IeC {\'o}n 3}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Ejecute ab contra a las tres m\IeC {\'a}quinas virtuales (desde el SO anfitri\IeC {\'o}n a las m\IeC {\'a}quina virtuales de la red local) una a una (arrancadas por separado).\IeC {\textquestiondown }Cu\IeC {\'a}l es la que proporciona mejores resultados? Muestre y com\IeC {\'e}ntelos. (Use como m\IeC {\'a}quina de referencia Ubuntu Server para la comparativa).}{7}{subsection.3.1}
+\contentsline {section}{\numberline {4}Cuesti\IeC {\'o}n 4}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}\relax \fontsize {14.4}{18}\selectfont Instale y siga el tutorial en http://jmeter.apache.org/usermanual/build-web-test-plan.html realizando capturas de pantalla y coment\IeC {\'a}ndolas. En vez de usar la web de jmeter, haga el experimento usando sus m\IeC {\'a}quinas virtuales \IeC {\textquestiondown }coincide con los resultados de ab?}{11}{subsection.4.1}
+\contentsline {section}{\numberline {5}Cuesti\IeC {\'o}n 5}{15}{section.5}
+\contentsline {subsection}{\numberline {5.1}\relax \fontsize {14.4}{18}\selectfont Programe un benchmark usando el lenguaje que desee. El benchmark debe incluir:\\ 1) Objetivo del benchmark. \\2) M\IeC {\'e}tricas (unidades, variables, puntuaciones, etc.) \\3) Instrucciones para su uso. \\4) Ejemplo de uso analizando los resultados.}{16}{subsection.5.1}
